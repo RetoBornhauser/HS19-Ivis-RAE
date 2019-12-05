@@ -57,8 +57,10 @@ The data for the analysis is obtained from transfermarkt.ch.
 
 ### Visualsation
 
+The visualisations are created with nivo.js (https://nivo.rocks)
 The collected data is compared to the normalised distribution of live births. The charts can be filtered by season and age.
 Also per team and per season a breakdown of the birth data is created, which shows the team composition distributed over the individual quarters.
+
 
 
 
